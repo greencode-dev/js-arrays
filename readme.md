@@ -1,4 +1,4 @@
-# README — Esercizi svolti: 01-arrays & 02-arrays-bonus
+## Esercizi svolti: 01-arrays & 02-arrays-bonus
 
 Repository: esercizi su array in JavaScript.
 
